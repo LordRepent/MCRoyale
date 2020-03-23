@@ -3709,3 +3709,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.23-16.18.07:130][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.03.23-16.18.07:133][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
 [2020.03.23-16.18.07:188][391]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.03.23-16.19.47:176][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="E:/GameProjects/MCRoyale/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.23-16.19.47:212][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.03.23-16.19.47:407][ 70]LogSavePackage: Moving 'E:/GameProjects/MCRoyale/Saved/MainMenu977D3797451E65F666E64F97F276EA26.tmp' to 'E:/GameProjects/MCRoyale/Content/Levels/MainMenu.umap'
+[2020.03.23-16.19.47:422][ 70]AssetCheck: New page: Asset Save: MainMenu
+[2020.03.23-16.19.47:422][ 70]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
