@@ -3714,3 +3714,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.23-16.19.47:407][ 70]LogSavePackage: Moving 'E:/GameProjects/MCRoyale/Saved/MainMenu977D3797451E65F666E64F97F276EA26.tmp' to 'E:/GameProjects/MCRoyale/Content/Levels/MainMenu.umap'
 [2020.03.23-16.19.47:422][ 70]AssetCheck: New page: Asset Save: MainMenu
 [2020.03.23-16.19.47:422][ 70]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2020.03.23-16.21.08:900][615]LogEditorViewport: Clicking Background
+[2020.03.23-16.21.09:651][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="E:/GameProjects/MCRoyale/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.23-16.21.09:686][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.03.23-16.21.09:855][697]LogSavePackage: Moving 'E:/GameProjects/MCRoyale/Saved/MainMenu31C7CE9744E1DE8E49E113862BBB56E9.tmp' to 'E:/GameProjects/MCRoyale/Content/Levels/MainMenu.umap'
+[2020.03.23-16.21.09:871][697]AssetCheck: New page: Asset Save: MainMenu
+[2020.03.23-16.21.09:871][697]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
